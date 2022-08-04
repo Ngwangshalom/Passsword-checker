@@ -1,0 +1,7 @@
+{
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "workbench.preferredHighContrastLightColorTheme": "Default Dark+",
+    "workbench.preferredLightColorTheme": "Default Dark+",
+    "workbench.colorTheme": "Default Dark+"
+}
