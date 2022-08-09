@@ -1,0 +1,29 @@
+function countNumber(data){
+    let counter = 0;
+    let counterr ;
+
+    for(let key in data){
+        const val = data[key];
+        if(typeof(val) === "number"){
+            counter++;
+        }
+      //  if(typeof(val) === "string"){
+       //     counterr++;
+      //  }
+      
+    }
+return counter;
+//return counterr;
+
+}
+
+    let person = {
+        name:"shalom",
+        lname: "donald",
+        age:15,
+        height:2.5
+
+
+    };
+    const result = console.log(countNumber(person));
+
